@@ -1,0 +1,63 @@
+*{
+    color:black;
+}
+
+html, body{
+    height: 100%;
+}
+
+.headerright{
+    float : right;
+}
+
+.ad{
+    width: auto;
+    height: 5%;
+    display: flex;
+    justify-content: center ;
+}
+
+.headerbar{
+    display: flex;
+    justify-content: center;
+}
+
+.fblog{
+    display: flex;
+    float : right;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box{
+    width: 45%;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 0.5rem;
+    margin: auto;
+}
+
+.boxselect{
+    justify-content: flex-start;
+}
+
+.brr{
+    width: auto;
+    height: auto;
+    justify-content:flex-end;
+}
+
+.p3000{
+    width: auto;
+    height: auto;
+    justify-content:flex-end;
+}
+
+
+
+
+
+
